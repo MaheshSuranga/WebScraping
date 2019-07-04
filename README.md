@@ -1,6 +1,6 @@
 # Scrape javascript based webpages with using scrapy and splash 
 simple application for scrape sinhala web articles which are related to science topics by using css selectors of their web site.
-First of all clone this repo
+First of all clone this repo `git clone https://github.com/MaheshSuranga/WebScraping.git`
 # Prerequisites
 1. Install scrpay either in PyPI or conda
 
